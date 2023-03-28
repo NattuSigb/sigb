@@ -1,0 +1,55 @@
+C:\Users\Socius IGB\source\repos\SIGBNat\SIGBNat\bin\Debug\SIGBNat.exe.config
+C:\Users\Socius IGB\source\repos\SIGBNat\SIGBNat\bin\Debug\SIGBNat.exe
+C:\Users\Socius IGB\source\repos\SIGBNat\SIGBNat\bin\Debug\SIGBNat.pdb
+C:\Users\Socius IGB\source\repos\SIGBNat\SIGBNat\bin\Debug\log4net.xml
+C:\Users\Socius IGB\source\repos\SIGBNat\SIGBNat\obj\Debug\SIGBNat.csproj.AssemblyReference.cache
+C:\Users\Socius IGB\source\repos\SIGBNat\SIGBNat\obj\Debug\Interop.SAPbobsCOM.dll
+C:\Users\Socius IGB\source\repos\SIGBNat\SIGBNat\obj\Debug\Interop.SAPbouiCOM.dll
+C:\Users\Socius IGB\source\repos\SIGBNat\SIGBNat\obj\Debug\SIGBNat.csproj.ResolveComReference.cache
+C:\Users\Socius IGB\source\repos\SIGBNat\SIGBNat\obj\Debug\SIGBNat.Properties.Resources.resources
+C:\Users\Socius IGB\source\repos\SIGBNat\SIGBNat\obj\Debug\SIGBNat.csproj.GenerateResource.cache
+C:\Users\Socius IGB\source\repos\SIGBNat\SIGBNat\obj\Debug\SIGBNat.csproj.CoreCompileInputs.cache
+C:\Users\Socius IGB\source\repos\SIGBNat\SIGBNat\obj\Debug\SIGBNat.csproj.CopyComplete
+C:\Users\Socius IGB\source\repos\SIGBNat\SIGBNat\obj\Debug\SIGBNat.exe
+C:\Users\Socius IGB\source\repos\SIGBNat\SIGBNat\obj\Debug\SIGBNat.pdb
+C:\Users\Socius IGB\source\repos\SIGBNat\SIGBNat\bin\Debug\log4net.dll
+C:\Users\K Dillibabu\source\repos\SIGBNat\SIGBNat\bin\Debug\SIGBNat.exe.config
+C:\Users\K Dillibabu\source\repos\SIGBNat\SIGBNat\bin\Debug\SIGBNat.exe
+C:\Users\K Dillibabu\source\repos\SIGBNat\SIGBNat\bin\Debug\SIGBNat.pdb
+C:\Users\K Dillibabu\source\repos\SIGBNat\SIGBNat\bin\Debug\log4net.dll
+C:\Users\K Dillibabu\source\repos\SIGBNat\SIGBNat\bin\Debug\log4net.xml
+C:\Users\K Dillibabu\source\repos\SIGBNat\SIGBNat\obj\Debug\SIGBNat.csproj.AssemblyReference.cache
+C:\Users\K Dillibabu\source\repos\SIGBNat\SIGBNat\obj\Debug\Interop.SAPbobsCOM.dll
+C:\Users\K Dillibabu\source\repos\SIGBNat\SIGBNat\obj\Debug\Interop.SAPbouiCOM.dll
+C:\Users\K Dillibabu\source\repos\SIGBNat\SIGBNat\obj\Debug\SIGBNat.csproj.ResolveComReference.cache
+C:\Users\K Dillibabu\source\repos\SIGBNat\SIGBNat\obj\Debug\SIGBNat.Properties.Resources.resources
+C:\Users\K Dillibabu\source\repos\SIGBNat\SIGBNat\obj\Debug\SIGBNat.csproj.GenerateResource.cache
+C:\Users\K Dillibabu\source\repos\SIGBNat\SIGBNat\obj\Debug\SIGBNat.csproj.CoreCompileInputs.cache
+C:\Users\K Dillibabu\source\repos\SIGBNat\SIGBNat\obj\Debug\SIGBNat.csproj.CopyComplete
+C:\Users\K Dillibabu\source\repos\SIGBNat\SIGBNat\obj\Debug\SIGBNat.exe
+C:\Users\K Dillibabu\source\repos\SIGBNat\SIGBNat\obj\Debug\SIGBNat.pdb
+C:\Users\K Dillibabu\source\repos\SIGBNat\SIGBNat\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\K Dillibabu\source\repos\SIGBNat\SIGBNat\bin\Debug\NPOI.dll
+C:\Users\K Dillibabu\source\repos\SIGBNat\SIGBNat\bin\Debug\NPOI.OOXML.dll
+C:\Users\K Dillibabu\source\repos\SIGBNat\SIGBNat\bin\Debug\NPOI.OpenXml4Net.dll
+C:\Users\K Dillibabu\source\repos\SIGBNat\SIGBNat\bin\Debug\NPOI.OpenXmlFormats.dll
+C:\Users\Socius IGB\Desktop\Dupdated SIGBNat\SIGBNat\SIGBNat\bin\Debug\SIGBNat.exe.config
+C:\Users\Socius IGB\Desktop\Dupdated SIGBNat\SIGBNat\SIGBNat\bin\Debug\SIGBNat.exe
+C:\Users\Socius IGB\Desktop\Dupdated SIGBNat\SIGBNat\SIGBNat\bin\Debug\SIGBNat.pdb
+C:\Users\Socius IGB\Desktop\Dupdated SIGBNat\SIGBNat\SIGBNat\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\Socius IGB\Desktop\Dupdated SIGBNat\SIGBNat\SIGBNat\bin\Debug\log4net.dll
+C:\Users\Socius IGB\Desktop\Dupdated SIGBNat\SIGBNat\SIGBNat\bin\Debug\NPOI.dll
+C:\Users\Socius IGB\Desktop\Dupdated SIGBNat\SIGBNat\SIGBNat\bin\Debug\NPOI.OOXML.dll
+C:\Users\Socius IGB\Desktop\Dupdated SIGBNat\SIGBNat\SIGBNat\bin\Debug\NPOI.OpenXml4Net.dll
+C:\Users\Socius IGB\Desktop\Dupdated SIGBNat\SIGBNat\SIGBNat\bin\Debug\NPOI.OpenXmlFormats.dll
+C:\Users\Socius IGB\Desktop\Dupdated SIGBNat\SIGBNat\SIGBNat\bin\Debug\log4net.xml
+C:\Users\Socius IGB\Desktop\Dupdated SIGBNat\SIGBNat\SIGBNat\obj\Debug\SIGBNat.csproj.AssemblyReference.cache
+C:\Users\Socius IGB\Desktop\Dupdated SIGBNat\SIGBNat\SIGBNat\obj\Debug\Interop.SAPbobsCOM.dll
+C:\Users\Socius IGB\Desktop\Dupdated SIGBNat\SIGBNat\SIGBNat\obj\Debug\Interop.SAPbouiCOM.dll
+C:\Users\Socius IGB\Desktop\Dupdated SIGBNat\SIGBNat\SIGBNat\obj\Debug\SIGBNat.csproj.ResolveComReference.cache
+C:\Users\Socius IGB\Desktop\Dupdated SIGBNat\SIGBNat\SIGBNat\obj\Debug\SIGBNat.Properties.Resources.resources
+C:\Users\Socius IGB\Desktop\Dupdated SIGBNat\SIGBNat\SIGBNat\obj\Debug\SIGBNat.csproj.GenerateResource.cache
+C:\Users\Socius IGB\Desktop\Dupdated SIGBNat\SIGBNat\SIGBNat\obj\Debug\SIGBNat.csproj.CoreCompileInputs.cache
+C:\Users\Socius IGB\Desktop\Dupdated SIGBNat\SIGBNat\SIGBNat\obj\Debug\SIGBNat.csproj.CopyComplete
+C:\Users\Socius IGB\Desktop\Dupdated SIGBNat\SIGBNat\SIGBNat\obj\Debug\SIGBNat.exe
+C:\Users\Socius IGB\Desktop\Dupdated SIGBNat\SIGBNat\SIGBNat\obj\Debug\SIGBNat.pdb
